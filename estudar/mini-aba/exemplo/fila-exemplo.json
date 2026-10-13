@@ -1,0 +1,9 @@
+{"hoje": "2026-10-13", "fila": [
+ {"chave": "11-0", "dia": "Dia 11 (ter 13/10)", "data": "2026-10-13", "materia": "Matemática", "horario": "18:30–20:00", "tema": "Exemplo", "obs": "",
+  "itens": [{"busca": "PV Matemática L3", "livro": "PV Matemática – L3", "pagina": 5, "capitulo": "Frente 3 · cap. 12",
+   "tarefa": "Ler pp. 5–14 · 10 páginas · 30 min (teoria completa) | Fazer Revisando 4 (p. 15) · Propostos 23 (p. 17)"}]},
+ {"chave": "11-1", "dia": "Dia 11 (ter 13/10)", "data": "2026-10-13", "materia": "Química", "horario": "20:30–22:00", "tema": "Exemplo", "obs": "",
+  "itens": [{"busca": "PV Química L1", "livro": "PV Química – L1", "pagina": 182, "capitulo": "Frente 2 · cap. 3",
+   "tarefa": "Ler pp. 182–188 · 7 páginas · 21 min (teoria completa) | Fazer Propostos 3, 17 (pp. 190–197)"}]},
+ {"chave": "11-2", "dia": "Dia 11 (ter 13/10)", "data": "2026-10-13", "materia": "Literatura e Humanas", "horario": "22:00–22:30", "tema": "Literatura: Nihonjin", "obs": "", "itens": []}
+]}

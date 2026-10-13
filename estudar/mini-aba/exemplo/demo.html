@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mini aba · demonstração</title>
+<style>body{margin:0;font:15px/1.6 Georgia,serif;background:#eee;color:#222}
+.pagina{max-width:640px;margin:24px auto;background:#fff;padding:32px;min-height:120vh}
+.nav{position:fixed;bottom:0;left:0;right:0;display:flex;gap:8px;justify-content:center;padding:8px;background:#333;color:#fff}
+</style></head><body>
+<div class="pagina"><h1 id="pg">Página 5</h1><p>Texto do livro para selecionar e ler. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
+<div class="nav"><button id="ant">Anterior</button><span><input id="campo" type="text" value="5" size="4"> / 300</span><button id="prox">Próxima</button></div>
+<script>
+// visualizador falso: Enter no campo troca a página, como no Poliedro
+var campo=document.getElementById('campo');
+campo.addEventListener('keydown',function(e){if(e.key==='Enter')document.getElementById('pg').textContent='Página '+campo.value;});
+</script>
+<script src="../mini-aba.js"></script>
+<script>fetch('payload.json').then(function(r){return r.json()}).then(function(p){window.__miniAba.carregar(p)});</script>
+</body></html>

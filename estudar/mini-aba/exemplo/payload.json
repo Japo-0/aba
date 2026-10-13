@@ -1,0 +1,67 @@
+{
+ "id": "fila-2026-10-13",
+ "tarefas": [
+  {
+   "titulo": "Ler páginas 5–14",
+   "detalhe": "30 min",
+   "pagina": 5,
+   "id": "11-0/0/0",
+   "bloco": "11-0",
+   "contexto": "Matemática · Dia 11",
+   "livro": "PV Matemática – L3",
+   "capitulo": "Frente 3 · cap. 12"
+  },
+  {
+   "titulo": "Fazer Revisando 4",
+   "detalhe": "página 15",
+   "pagina": 15,
+   "id": "11-0/0/1",
+   "bloco": "11-0",
+   "contexto": "Matemática · Dia 11",
+   "livro": "PV Matemática – L3",
+   "capitulo": "Frente 3 · cap. 12"
+  },
+  {
+   "titulo": "Fazer Propostos 23",
+   "detalhe": "página 17",
+   "pagina": 17,
+   "id": "11-0/0/2",
+   "bloco": "11-0",
+   "contexto": "Matemática · Dia 11",
+   "livro": "PV Matemática – L3",
+   "capitulo": "Frente 3 · cap. 12"
+  },
+  {
+   "titulo": "Ler páginas 182–188",
+   "detalhe": "21 min",
+   "pagina": 182,
+   "id": "11-1/0/0",
+   "bloco": "11-1",
+   "contexto": "Química · Dia 11",
+   "livro": "PV Química – L1",
+   "capitulo": "Frente 2 · cap. 3"
+  },
+  {
+   "titulo": "Fazer Propostos 3, 17",
+   "detalhe": "páginas 190–197",
+   "pagina": 190,
+   "id": "11-1/0/1",
+   "bloco": "11-1",
+   "contexto": "Química · Dia 11",
+   "livro": "PV Química – L1",
+   "capitulo": "Frente 2 · cap. 3"
+  },
+  {
+   "id": "11-2/-/0",
+   "bloco": "11-2",
+   "contexto": "Literatura e Humanas · Dia 11",
+   "titulo": "Literatura: Nihonjin",
+   "detalhe": "22:00–22:30",
+   "livro": null,
+   "pagina": null
+  }
+ ],
+ "feitas": [],
+ "livroAberto": "PV Matemática – L3",
+ "pos": null
+}
